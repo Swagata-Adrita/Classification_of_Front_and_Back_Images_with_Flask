@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+Werkzeug
+torch
+torchvision
+gevent
+pillow
+regex
